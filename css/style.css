@@ -54,8 +54,8 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	border: 1px solid black;
 	background-color: white;
 	position: absolute;
-	width: 11%;
-	height: 18%;
+	width: 98px;
+	height: 28px;
 	top: 40%;
 	left: 2%;
 }
@@ -205,8 +205,8 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	border: 1px solid black;
 	background-color: white;
 	position: absolute;
-	width: 20%;
-	height: 18%;
+	width: 120px;
+	height: 28px;
 	top: 40%;
 	right: 5%;
 }
