@@ -57,6 +57,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 .first p {
 	font-size: 4vmin;
+	text-align: right;
 }
 
 .wrapper {
@@ -71,7 +72,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .second {
 	background-color: peachpuff;
 	display: flex;
-/*	text-align: center;*/
 	align-items: center;
 	justify-content: space-around;
 	border: 1px solid black;
@@ -126,11 +126,11 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	flex: 1;
 	background-color: peachpuff;
 	display: flex;
-/*	text-align: center;*/
 	align-items: center;
 	justify-content: space-around;
 	border: 1px solid black;
 	border-top: none;
+	padding: 0 10px;
 }
 
 .values_list {
@@ -162,13 +162,13 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .y {
 	order: 2;
 	background-color: white;
-	min-width: 250px;
 	max-width: 50%;
 	padding: 5px;
 	margin-right: 16px;
 	border: 1px solid black;
 	font-size: 4vmin;
 	text-align: center;
+	padding: 0 15px;
 }
 
 .seventh p {

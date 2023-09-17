@@ -57,6 +57,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 .first p {
 	font-size: 4vmin;
+	text-align: right;
 }
 
 .wrapper {
@@ -130,6 +131,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	border: 1px solid black;
 	border-top: none;
 	font-size: 2.4vmin;
+	padding: 0 10px;
 }
 
 .sixth {
@@ -157,13 +159,13 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .y {
 	order: 2;
 	background-color: white;
-	min-width: 250px;
 	max-width: 50%;
 	padding: 5px;
 	margin-right: 16px;
 	border: 1px solid black;
 	font-size: 4vmin;
 	text-align: center;
+	padding: 0 15px;
 }
 
 .seventh p {
